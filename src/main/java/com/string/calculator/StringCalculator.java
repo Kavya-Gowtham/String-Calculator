@@ -31,7 +31,6 @@ public class StringCalculator {
                 tempString = tempString + ("," + number);
             total += toInt(number);
         }
-
         return total;
     }
 }
